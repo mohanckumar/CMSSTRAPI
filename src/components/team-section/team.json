@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_team_section_teams",
+  "info": {
+    "displayName": "Team",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "H1Team": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "cardImage2": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "button": {
+      "type": "string"
+    }
+  }
+}

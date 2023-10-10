@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_navigation_section_navigations",
+  "info": {
+    "displayName": "Navigation",
+    "icon": "eye"
+  },
+  "options": {},
+  "attributes": {
+    "N1": {
+      "type": "string"
+    },
+    "N2": {
+      "type": "string"
+    },
+    "CurrentDate": {
+      "type": "date"
+    },
+    "socialIcons": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

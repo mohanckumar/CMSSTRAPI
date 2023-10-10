@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_schedule_schedules",
+  "info": {
+    "displayName": "schedule",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "backgroundImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "H1heading": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "viewschedulebutton": {
+      "type": "string"
+    },
+    "bytticketbutton": {
+      "type": "string"
+    }
+  }
+}

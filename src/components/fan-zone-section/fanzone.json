@@ -1,0 +1,39 @@
+{
+  "collectionName": "components_fan_zone_section_fanzones",
+  "info": {
+    "displayName": "fanzone",
+    "icon": "chartPie"
+  },
+  "options": {},
+  "attributes": {
+    "H1Heading": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "string"
+    },
+    "backgroundimage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "coverpageImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

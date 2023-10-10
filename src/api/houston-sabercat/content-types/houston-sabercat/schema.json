@@ -1,0 +1,66 @@
+{
+  "kind": "collectionType",
+  "collectionName": "houston_sabercats",
+  "info": {
+    "singularName": "houston-sabercat",
+    "pluralName": "houston-sabercats",
+    "displayName": "HoustonSabercat",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "navigation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "navigation-section.navigation"
+    },
+    "hero": {
+      "type": "component",
+      "repeatable": false,
+      "component": "hero-section.hero"
+    },
+    "schedule": {
+      "type": "component",
+      "repeatable": false,
+      "component": "schedule-section.schedule"
+    },
+    "team": {
+      "type": "component",
+      "repeatable": false,
+      "component": "team-section.team"
+    },
+    "news": {
+      "type": "component",
+      "repeatable": false,
+      "component": "news-section.news"
+    },
+    "academy": {
+      "type": "component",
+      "repeatable": false,
+      "component": "academy-section.academy"
+    },
+    "hy": {
+      "type": "component",
+      "repeatable": false,
+      "component": "houston-section.houston-youth-rugby"
+    },
+    "sponser": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sponsorships-section.sponsorships"
+    },
+    "footer": {
+      "type": "component",
+      "repeatable": false,
+      "component": "footer-section.footer"
+    },
+    "nav2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "navigation-section.navigation2"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_cards_section_cards",
+  "info": {
+    "displayName": "cards",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "date": {
+      "type": "date"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "string"
+    }
+  }
+}

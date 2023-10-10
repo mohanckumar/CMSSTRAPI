@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_sponsorships_section_sponsorships",
+  "info": {
+    "displayName": "sponsorships",
+    "icon": "chartPie"
+  },
+  "options": {},
+  "attributes": {
+    "carousels": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "H1Description": {
+      "type": "text"
+    },
+    "imagesextra": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

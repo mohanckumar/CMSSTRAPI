@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_academy_section_academies",
+  "info": {
+    "displayName": "Academy"
+  },
+  "options": {},
+  "attributes": {
+    "H1Header": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "button": {
+      "type": "string"
+    },
+    "backgroundimage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "vedio": {
+      "allowedTypes": [
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

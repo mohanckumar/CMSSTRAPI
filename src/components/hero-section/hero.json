@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_hero_section_heroes",
+  "info": {
+    "displayName": "Hero",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "backgroundVideo": {
+      "allowedTypes": [
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "H1Text": {
+      "type": "string"
+    },
+    "H2Text": {
+      "type": "string"
+    },
+    "Button": {
+      "type": "string"
+    },
+    "headerbelowImager": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

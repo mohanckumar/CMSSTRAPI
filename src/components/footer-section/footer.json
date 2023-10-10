@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_footer_section_footers",
+  "info": {
+    "displayName": "footer",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "H1Heading": {
+      "type": "string"
+    },
+    "socialIcons": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "H2Header": {
+      "type": "text"
+    },
+    "h3header": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "copyrightinfo": {
+      "type": "richtext"
+    }
+  }
+}

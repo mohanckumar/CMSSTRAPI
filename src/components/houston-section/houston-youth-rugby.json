@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_houston_section_houston_youth_rugbies",
+  "info": {
+    "displayName": "houston-youth-rugby",
+    "icon": "chartPie"
+  },
+  "options": {},
+  "attributes": {
+    "H1Header": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "H2Header": {
+      "type": "string"
+    },
+    "Description2": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "imagecards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cards-section.cards"
+    }
+  }
+}

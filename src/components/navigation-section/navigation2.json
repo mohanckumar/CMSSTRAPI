@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_navigation_section_navigation2s",
+  "info": {
+    "displayName": "Navigation2",
+    "icon": "check",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "navelement1": {
+      "type": "string"
+    },
+    "button": {
+      "type": "string"
+    },
+    "logo2": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
