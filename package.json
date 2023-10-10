@@ -1,5 +1,5 @@
 {
-  "name": "cmssample",
+  "name": "strapi-cloud",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -9,19 +9,18 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
+  "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-graphql": "^4.14.3",
-    "@strapi/plugin-i18n": "4.14.3",
-    "@strapi/plugin-users-permissions": "4.14.3",
     "@strapi/strapi": "4.14.3",
-    "better-sqlite3": "8.6.0",
-    "strapi-plugin-mux-video-uploader": "^2.7.0"
+    "@strapi/plugin-users-permissions": "4.14.3",
+    "@strapi/plugin-i18n": "4.14.3",
+    "better-sqlite3": "8.6.0"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "13a181aa-59d0-4906-8213-8c39c13fb9b3"
+    "uuid": "21248c9c-7f4f-48ee-95ec-b8432885493d"
   },
   "engines": {
     "node": ">=16.0.0 <=20.x.x",
