@@ -13,9 +13,9 @@
     "@strapi/plugin-graphql": "^4.14.3",
     "@strapi/plugin-i18n": "4.14.3",
     "@strapi/plugin-users-permissions": "4.14.3",
-    "@strapi/strapi": "4.14.3",
+    "@strapi/strapi": "5.1.1",
     "better-sqlite3": "8.6.0",
-    "strapi-plugin-mux-video-uploader": "^2.7.0"
+    "strapi-plugin-mux-video-uploader": "^2.8.0"
   },
   "author": {
     "name": "A Strapi developer"
