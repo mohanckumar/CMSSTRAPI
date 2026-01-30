@@ -13,7 +13,7 @@
     "@strapi/plugin-graphql": "^4.14.3",
     "@strapi/plugin-i18n": "4.14.3",
     "@strapi/plugin-users-permissions": "4.14.3",
-    "@strapi/strapi": "4.14.3",
+    "@strapi/strapi": "5.34.0",
     "better-sqlite3": "8.6.0",
     "strapi-plugin-mux-video-uploader": "^2.7.0"
   },
